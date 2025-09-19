@@ -1,0 +1,17 @@
+{
+  "name": "travelease",
+  "version": "1.0.0",
+  "description": "��#\u0000 \u0000T\u0000r\u0000a\u0000v\u0000e\u0000l\u0000E\u0000a\u0000s\u0000e\u0000\r\u0000 \u0000",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^17.2.2",
+    "express": "^5.1.0",
+    "pg": "^8.16.3"
+  }
+}
